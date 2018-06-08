@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TENET-TV instructions</string>
+    <string name="tenet_tv_mag_200_250">Инструкция по работе с порталом TENET-TV для ТВ-приставок MAG 200/250 (новый дизайн)</string>
+    <string name="tenet_tv_mag_200_250_old">Инструкция по работе с порталом TENET-TV для ТВ-приставок MAG 200/250 (старый дизайн)</string>
+    <string name="registration">Регистрация устройств для TENET-TV в сети TENET</string>
+    <string name="registration_11">Регистрация устройства (ТВ-приставки, телевизора, медиаплеера) в сетях других провайдеров.</string>
+    <string name="tenet_tv_amino_aminet_130_140">Инструкция по работе с порталом TENET-TV для ТВ-приставок Amino AmiNET 130/140</string>
+    <string name="tenet_tv_samsung_smart_tv">Инструкции по установке приложения (виджета) TENET-TV* на телевизоры Samsung с поддержкой технологии Smart TV</string>
+    <string name="tenet_tv_lg_smart_tv">Инструкции по установке приложения (виджета) TENET-TV* на телевизоры LG с поддержкой технологии Smart TV</string>
+    <string name="tenet_tv_dune_hd">Инструкция по установке приложения (виджета) TENET-TV на медиаплееры серии Dune HD</string>
+    <string name="tenet_tv_main_title">Инструкции по установке приложения проекта TENET-TV</string>
+    <string name="reg_1_1">Регистрации устройств для проекта TENET-TV</string>
+    <string name="reg0_1">При подключении нового устройства на экране Вы увидите окно выбора:</string>
+    <string name="title_activity_local_registration">LocalRegistration</string>
+    <string name="go_back">GO BACK</string>
+</resources>
